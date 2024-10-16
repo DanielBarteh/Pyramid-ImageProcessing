@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://dabram.ir/resume" target="_blank"><img style="border-radius: 10px" src="https://dabram.ir/file/image/rezome/perseneli.jpg" height="100" alt="Daniel Barteh"></a>
+<a href="https://dabram.ir/resume" target="_blank"><img style="border-radius: 10px" src="https://dabram.ir/file/image/resume/DanielBarteh-Resume.png" height="100" alt="Daniel Barteh"></a>
 <br>
 <b>Daniel Barteh</b>
 <br>
